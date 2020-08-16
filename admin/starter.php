@@ -2,9 +2,8 @@
 
 require('include/header.php');
 
+?>
 
-
-echo <<<STRING
         <!-- Begin Page Content -->
         <div class="container-fluid">
 
@@ -18,8 +17,9 @@ echo <<<STRING
 
       </div>
       <!-- End of Main Content -->
-STRING;
 
+
+<?php
 
 require('include/footer.php');
 
