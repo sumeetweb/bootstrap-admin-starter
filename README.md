@@ -1,2 +1,2 @@
-# Voucher-Management-System
-A Voucher/Coupon Management System with Payment Gateway Integration.
+# Bootstrap Admin Starter
+A starter template for bootstrap admin.
