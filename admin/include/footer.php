@@ -1,6 +1,4 @@
-<?php
 
-echo <<<STRING
       <!-- Footer -->
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
@@ -54,5 +52,3 @@ echo <<<STRING
 </body>
 
 </html>
-
-STRING;
