@@ -1,5 +1,3 @@
-<?php
-echo <<<STRING
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -219,4 +217,3 @@ echo <<<STRING
 
         </nav>
         <!-- End of Topbar -->
-STRING;
